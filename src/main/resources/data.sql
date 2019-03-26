@@ -1,0 +1,9 @@
+insert into agency(id,institute_name, institute_code) values(1,'주택도시기금','bnk1');
+insert into agency(id,institute_name, institute_code) values(2,'국민은행','bnk2');
+insert into agency(id,institute_name, institute_code) values(3,'우리은행','bnk3');
+insert into agency(id,institute_name, institute_code) values(4,'신한은행','bnk4');
+insert into agency(id,institute_name, institute_code) values(5,'한국시티은행','bnk5');
+insert into agency(id,institute_name, institute_code) values(6,'하나은행','bnk6');
+insert into agency(id,institute_name, institute_code) values(7,'농협은행/수협은행','bnk7');
+insert into agency(id,institute_name, institute_code) values(8,'외환은행','bnk8');
+insert into agency(id,institute_name, institute_code) values(9,'기타은행','bnk9');
